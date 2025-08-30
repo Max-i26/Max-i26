@@ -100,7 +100,7 @@ README template for Maxi (Harol Maxilan)
 
 ### 📨 Contact
 - Email: <your-email>
-- LinkedIn: <https://www.linkedin.com/in/<your-linkedin>/>
+- LinkedIn: <https://www.linkedin.com/in/<https://www.linkedin.com/in/harol-maxilan-6b2b16253SS>/>
 - Portfolio: <https://<your-portfolio-or-notion>>
 
 ---
