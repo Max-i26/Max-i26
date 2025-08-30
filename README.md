@@ -4,12 +4,12 @@ README template for Maxi (Harol Maxilan)
 - Replace all placeholders wrapped in <...>
 -->
 
-<h1 align="center">Hey, I'm <b>Maxi</b> — aka <i>Bee's favorite data scientist</i> 👋</h1>
+<h1 align="center">Hey, I'm <b>Maxi</b> 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/Max-i26"><img src="https://komarev.com/ghpvc/?username=<your-username>&style=for-the-badge" alt="profile views"></a>
+  <a href="https://github.com/Max-i26"><img src="https://komarev.com/ghpvc/?username=Max-i26&style=for-the-badge" alt="profile views"></a>
   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/harol-maxilan-6b2b16253"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin"></a>
-  <a href="mailto:maxilanharrol@gmail.com"><img src="https://img.shields.io/badge/Email-hello%40example.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="email"></a>
+  <a href="maxilanharrol@gmail.com"><img src="https://img.shields.io/badge/Email-hello%40example.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="email"></a>
   <img src="https://img.shields.io/badge/Location-Sri%20Lanka-1F8A70?style=for-the-badge" alt="location"/>
 </p>
 
@@ -70,9 +70,7 @@ README template for Maxi (Harol Maxilan)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max-i26&layout=compact" alt="Top languages"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Max-i26>&hide_border=false" alt="Activity graph"/>
-</p>
+
 
 🧰 Reusable Snippets
 - **Data Mart Talk (Student‑friendly):** ETL with campus canteen sales + club events to forecast demand
@@ -84,9 +82,7 @@ README template for Maxi (Harol Maxilan)
 - LinkedIn: <https://www.linkedin.com/in/harol-maxilan-6b2b16253SS/>
 - Portfolio: <https://max-i26.github.io/Portfolio/>
 
-☕ Support
-If anything here helped you, consider ⭐ starring a repo or buying me a coffee.
-<a href="https://www.buymeacoffee.com/<your-handle>"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-FFDD00?logo=buy-me-a-coffee&logoColor=000&style=for-the-badge"/></a>
+
 
 
 
