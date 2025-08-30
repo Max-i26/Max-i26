@@ -9,7 +9,8 @@ README template for Maxi (Harol Maxilan)
 <p align="center">
   <a href="https://github.com/Max-i26"><img src="https://komarev.com/ghpvc/?username=Max-i26&style=for-the-badge" alt="profile views"></a>
   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/harol-maxilan-6b2b16253"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin"></a>
-  <a href="maxilanharrol@gmail.com"><img src="https://img.shields.io/badge/Email-hello%40example.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="email"></a>
+   <a href="maxilanharrol@gmail.com"><img src="https://img.shields.io/badge/Email-maxilanharrol@gmail.com.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="email"></a>
+ 
   <img src="https://img.shields.io/badge/Location-Sri%20Lanka-1F8A70?style=for-the-badge" alt="location"/>
 </p>
 
@@ -78,7 +79,7 @@ README template for Maxi (Harol Maxilan)
 - **Security:** per‑message keys, time‑boxed links, QR lure with hidden trigger
 
 📨 Contact
-- Email: <mailto:maxilanharrol@gmail.com>
+- Email: <maxilanharrol@gmail.com>
 - LinkedIn: <https://www.linkedin.com/in/harol-maxilan-6b2b16253SS/>
 - Portfolio: <https://max-i26.github.io/Portfolio/>
 
