@@ -72,12 +72,6 @@ README template for Maxi (Harol Maxilan)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max-i26&layout=compact" alt="Top languages"/>
 </p>
 
-
-🧰 Reusable Snippets
-- **Data Mart Talk (Student‑friendly):** ETL with campus canteen sales + club events to forecast demand
-- **ML Demos:** classification for attendance alerts; anomaly detection in lab usage logs
-- **Security:** per‑message keys, time‑boxed links, QR lure with hidden trigger
-
 📨 Contact
 - Email: <maxilanharrol@gmail.com>
 - LinkedIn: <https://www.linkedin.com/in/harol-maxilan-6b2b16253SS/>
